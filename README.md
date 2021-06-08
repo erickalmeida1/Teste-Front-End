@@ -13,13 +13,13 @@ link do projeto Adobe XD: https://xd.adobe.com/view/a44042ef-99e2-46fa-545c-ce4f
 As imagens estão nesse repositório. É importante o layout ser responsivo.
 
 
-**#CENÁRIO**
-Um cliente precisa criar seu site com as tecnologias boostrap 4 e javascript.
+**CENÁRIO**
+- Um cliente precisa criar seu site com as tecnologias boostrap 4 e javascript.
 
-**#DEVERES**
+**DEVERES**
 - Header responsivo
 - Banner utilizando carrossel
 - Utilizar javascript com animações ao seu critério.
 
-**#CONCLUSÃO**
+**CONCLUSÃO**
 Após finalizar solicite um pull request nesse repositório ou envie um e-mail para contato@bredi.com.br com os seus dados.
