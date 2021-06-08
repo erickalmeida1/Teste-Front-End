@@ -22,4 +22,4 @@ As imagens estão nesse repositório. É importante o layout ser responsivo.
 - Utilizar javascript com animações ao seu critério.
 
 **CONCLUSÃO**
-Após finalizar solicite um pull request nesse repositório ou envie um e-mail para contato@bredi.com.br com os seus dados.
+- Após finalizar solicite um pull request nesse repositório ou envie um e-mail para contato@bredi.com.br com os seus dados.
