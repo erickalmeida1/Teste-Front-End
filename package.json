@@ -1,0 +1,26 @@
+{
+  "name": "teste-front-end",
+  "version": "1.0.0",
+  "description": "Teste de front-end para a Bredi.",
+  "main": "index.js",
+  "scripts": {
+    "sass-comp": "sass ./css/sass/main.scss ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickalmeida1/Teste-Front-End.git"
+  },
+  "author": "Victor Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickalmeida1/Teste-Front-End/issues"
+  },
+  "homepage": "https://github.com/erickalmeida1/Teste-Front-End#readme",
+  "devDependencies": {
+    "sass": "^1.34.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.1"
+  }
+}

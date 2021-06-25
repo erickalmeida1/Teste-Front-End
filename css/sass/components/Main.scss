@@ -1,0 +1,69 @@
+@import './styles/fonts';
+@import './styles/colors';
+
+html, body {
+  margin: 0;
+  font-family: 'Montserrat', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Montserrat ExtraBold';
+  font-weight: bolder;
+}
+
+.news-card {
+  margin-bottom: 24px;
+}
+
+.news-card__image--wrapper {
+  background-color: $yellow;
+  padding-top: 100%;
+  overflow: hidden;
+}
+
+.news-card__image {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: -100%;
+  width: 100%;
+  padding-top: 100%;
+  transition: .2s ease-in-out;
+}
+
+.news-card:hover .news-card__image {
+  transform: scale(.95);
+}
+
+.news-card__title,
+.news-card__title:hover {
+  color: $black;
+  text-decoration: none;
+}
+
+.news-card__description {
+  color: $grey;
+  text-decoration: none;
+}
+
+.more-info-button {
+  background-color: $yellow;
+  color: $black;
+  font-family: 'Montserrat ExtraBold';
+  font-size: 1.2em;
+  text-decoration: none;
+  border: 2px solid $black;
+  padding: 16px 56px;
+  margin-top: 72px;
+  transition: .15s ease-in-out;
+}
+
+.more-info-button:hover {
+  background-color: $black;
+  color: $yellow;
+  border: 2px solid $yellow;
+}
